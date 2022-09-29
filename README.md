@@ -2,4 +2,4 @@
 
 ## Heading 2
 
-Description of the Readme
+Description line describing the Readme
